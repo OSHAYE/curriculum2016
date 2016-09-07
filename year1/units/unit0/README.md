@@ -1,6 +1,6 @@
 #Unit 0: Routines & Introductions
 
-In this unit students will be introduced to the concept of computational thinking. This unit will also provide icebreaker activities for students and teachers.
+This unit consists of icebreaker activities for students and teachers. This unit will also be most students' first interaction with HTML.
 
 | Topic | Lesson 1 (45 min) | Lesson 2 (45 min) | 
 |-----|:-------:|:-------:|
