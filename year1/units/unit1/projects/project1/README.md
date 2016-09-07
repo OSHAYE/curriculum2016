@@ -8,6 +8,9 @@ The project for this unit asks the student to create a webpage that includes tex
 ##Estimated Completion Time
 This project should take one 45 minute period to complete. Projects may take more or less time depending on students' needs.  
 
+##Teacher Pro Tips
+
+* Today will be the first day to introduce the students to the daily session doc (bit.ly/ScriptEd). The lead teacher must update the document and have students navigate to the link at the beginning of class. 
 
 <br>
 
