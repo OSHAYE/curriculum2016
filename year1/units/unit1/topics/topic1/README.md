@@ -8,8 +8,8 @@
 	<th>Lesson 2 (45 min)</th>
 </tr>
 <tr>
-	<td>In lesson 1 students will be introduced to HTML. They will learn basic tag structure and will use the following tags: head, title, body, p, h1, img, a  <br></td>
-	<td>In lesson 2 the students will use Popcode to create a website. They will also sign up for a GitHub account.</td>
+	<td>In lesson 1 students will be introduced to HTML. They will learn basic tag structure and will use the following tags: `doctype`, `html`, `head`, `title`, `body`, `h1`, `p`<br></td>
+	<td>In lesson 2 the students will use Popcode to create a website, and learn `a` tags through guided exploration. They will also sign up for a GitHub account.</td>
 </tr>
 
 </table>
