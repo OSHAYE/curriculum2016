@@ -28,3 +28,5 @@ In this unit students will be introduced to HTML. They will learn tag structure 
 
 [Common Core & Computer Science Standards Alignment](csStandards.md)
 
+[HTML basics (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+
