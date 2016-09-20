@@ -11,7 +11,7 @@ In this unit students will be introduced to HTML. They will learn tag structure 
 <tr>
 	<td align="left"> <a href="topics/topic1">1 Intro to HTML</a> </td>
 	<td>In lesson 1 students will be introduced to HTML. They will learn basic tag structure and will use the following tags: head, title, body, p, h1, img, a  <br></td>
-	<td>In lesson 2 the stduents will again use Popcode to create a website. They will also sign up for a GitHub account.</td>
+	<td>In lesson 2 the students will again use Popcode to create a website. They will also sign up for a GitHub account.</td>
 </tr>
 <tr>
 	<th align="left"><a href ="projects/project1" >Project 1 </a> </th>
