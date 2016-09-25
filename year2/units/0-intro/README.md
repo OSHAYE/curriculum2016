@@ -1,7 +1,5 @@
 #Advanced Class Launch Event 
 
-
-##Scope
 All advanced students will meet at a central location. At this event, students will learn about the expectations for the course, meet the larger Advanced Program student community, and be notified of their company placement.
 
 <br>
