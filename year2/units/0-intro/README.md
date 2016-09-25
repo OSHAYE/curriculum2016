@@ -1,4 +1,4 @@
-#Unit: Information Session 
+#Advanced Class Launch Event 
 
 
 ##Scope
