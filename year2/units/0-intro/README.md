@@ -6,7 +6,7 @@ All advanced students will meet at a central location. At this event, students w
 
 <br>
 
-##[Google Slides](https://docs.google.com/presentation/d/1z2n1TjPUPFKLUCGOBRIJ4DtlCTi0u9yK5ONkvyR0iFA/edit?usp=sharing)
+##[Google Slides](https://docs.google.com/presentation/d/1ImI4ayHgQZcx6_w_3SFV2V_LkKpJGWkkQ6vektjwAQQ/edit?usp=sharing)
 
 
 
