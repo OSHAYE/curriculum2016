@@ -2,7 +2,7 @@
 
 
 ##Scope
-Expectations set & Slack channel created | All advanced students will meet at a central location. An info session will be held by ScriptEd. Students will sign up for a Slack channel during this time. 
+All advanced students will meet at a central location. At this event, students will learn about the expectations for the course, meet the larger Advanced Program student community, and be notified of their company placement.
 
 <br>
 
