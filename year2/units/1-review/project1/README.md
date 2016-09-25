@@ -9,8 +9,9 @@ The beginning of first session should be allotted for icebreakers, expectations,
 After icebreakers, expectation setting, and a company orientation, the goal should be for students to **begin** the Scavenger Hunt in session 1.  They come back together in their pairs to complete the actvity during session 2.  No more than 120 minutes should be allocated to the Scavenger Hunt. 
 
 ##Teacher Notes & Pro Tips
-* Require students to pair up with someone who is not in their school. Create a community within the class!
+*For the Scavenger Hunt,*
 * Print copies of the [clues worksheet](clues.md) before class.
+* Require students to pair up with someone who is not in their school. Create a community within the class!
 * Decide how you are going to keep score. Most teams use a whiteboard.
 * Have prizes ready. Company swag (stickers!!) is a fan-favorite.
 <br>
