@@ -8,7 +8,7 @@
 </tr>
 <tr>
 	<td>In lesson 1 students will create a wepage with four HTML lists  </td>
-	<td> <strong>N/A</strong> The teacher may teach a miscellaneous lesson ScriptEd staff suggests <a href="https://github.com/ScriptEdcurriculum/curriculum2016/tree/master/miscLessons/googling101">Google-ing 101</a> of their choosing (found on last page) or move straight to topic 2. </td>
+	<td> <strong>N/A</strong> The teacher may teach a miscellaneous lesson, ScriptEd staff suggests <a href="https://github.com/ScriptEdcurriculum/curriculum2016/tree/master/miscLessons/googling101">Google-ing 101</a> or the teacher may decide to move straight to topic 2. </td>
 </tr>
 </table>
 
