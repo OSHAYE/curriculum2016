@@ -6,7 +6,7 @@ The first project in this unit asks the students to take the provided HTML [Star
 
 
 ##Estimated Completion Time
-This project should take 90 minutes to complete. Project may take less or more time depending on students' needs.  
+This project should take 45 minutes to complete. Project may take less or more time depending on students' needs.  
 
 ##Teacher Notes & Pro Tips
 * It is encouraged that the teachers in the class complete this project and show off their final product to the class before they get started
