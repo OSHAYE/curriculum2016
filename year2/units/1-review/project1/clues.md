@@ -25,7 +25,7 @@ These programs must be completed in either jsBin or cloud9.
 | 1| hello.js|  ...prints "Hello, World!" in the console. | 1 |
 | 2| helloName.js |...asks for your name in an alert window then prints a message saying hello to you. |3 |
 | 3 | age.js | ...asks for your name and age then prints out how old you are in a string. | 3 | 
-| 10 | roman.js  | ...can convert any integer from 1-100 into a roman numeral.| 15 |  
+| 10 | roman.js  | ...can convert any integer from 1-100 into a roman numeral.| 20 |  
 
 
 ####JavaScript: Conditionals
