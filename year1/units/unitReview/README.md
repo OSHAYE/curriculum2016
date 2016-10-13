@@ -1,19 +1,20 @@
-#Unit 7: GitHub Collaboration 
+#Review Unit
 
-In this unit the class will collaborate on a project using GitHub and Cloud 9.
+In this unit the students are given a midterm challenge in HackerRank that tests all of the skills learned until this point. Teachers are then given the opportunity to have students create a project that requires the students to practice skills that require more attention before moving onto unit 8.
 
 <table>
 <tr>
 	<th align="left">Topic/Project</th>
-	<th>Lesson 1 (45 min)</th>
+	<th>Description</th>
 </tr>
 <tr>
-	<td align="left"> <a href="topics/topic1">1 Mr. Potato Head</a> </td>
-	<td>In this project students are given a more detailed explanation of GitHub and its abilities. Then they are asked to work together to build a Mr. Potato Head  </td>
+	<td align="left"> <a href="topics/topic1">1 Mid-year Challenge</a> </td>
+	<td>In this session the students will take a mid-year coding challenge using HackerRank the challenge will test their knowledge on all skills taught this school year. The average student should take 30 minutes to complete this challenge. However, please allot 45 minutes to complete it. </td>
 </tr>
 
 <tr>
-	<th align="center" colspan="3">Unit Challenge: hr.gs/unit7challenge </th>
+<td align="left"> <a href="topics/topic2">2 School Site Portfolio</a> </td>
+	<td>In this project students will be asked to rebuild (or create) their school's website.Standards will be set to ensure students review skills taught since the beginning of the school year. </td>
 </tr>
 
 
@@ -21,8 +22,6 @@ In this unit the class will collaborate on a project using GitHub and Cloud 9.
 
 
 ##Extra Resources, Challenges and Projects
-**Project:** [Portfolio Collaboration](https://github.com/Bijesse/scripted-student-portfolios) In this project the class creates a landing page for all their portfolios. 
-
 [Common Core & Computer Science Standards Alignment](csStandards.md)
 
 
