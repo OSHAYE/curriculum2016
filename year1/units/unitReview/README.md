@@ -13,7 +13,7 @@ In this unit the students are given a mid-year challenge in HackerRank that test
 </tr>
 
 <tr>
-<td align="left"> <a href="topics/topic2">2 School Site Portfolio</a> </td>
+<td align="left"> <a href="topics/topic2">2 School Website Rebuild</a> </td>
 	<td>In this project students will be asked to rebuild (or create) their school's website.Standards will be set to ensure students review skills taught since the beginning of the school year. </td>
 </tr>
 
