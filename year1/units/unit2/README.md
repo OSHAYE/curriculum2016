@@ -26,4 +26,6 @@ In this unit students will be taught how to manipulate the style of a webpage us
 ##Extra Resources, Challenges and Projects
 [Common Core & Computer Science Standards Alignment](csStandards.md)
 
+[Find A favorite Google Font and Use It In Popcode](google-fonts-activity.md)
+
 
