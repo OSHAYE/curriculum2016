@@ -12,3 +12,6 @@ Google Fonts Activity (if you have time)
 9. Share with a friend.
 
 **BONUS**: you can copy multiple fonts if you want by clicking the red "+" sign on them, then copy+pasting the `link` over to Popcode.
+
+![Google Fonts Screenshot](http://i.imgur.com/KJ3P8QX.png)
+![Google Fonts Screenshot](http://i.imgur.com/OTRerSd.png)
