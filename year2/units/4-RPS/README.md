@@ -29,7 +29,7 @@ Students who complete this task early are encouraged to:
 
 * Add CSS to this project
 * Add a scoreboard
-* [Rock Paper Scissors Lizard Spock!](http://bigbangtheory.wikia.com/wiki/Rock_Paper_Scissors_Lizard_Spock)
+* [Rock Paper Scissors Lizard Spock!](http://bigbangtheory.wikia.com/wiki/Rock_Paper_Scissors_Lizard_Spock) | [Video](https://www.youtube.com/watch?v=iapcKVn7DdY)
 
 
 
