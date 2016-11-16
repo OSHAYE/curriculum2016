@@ -12,7 +12,7 @@ Students will be compiling all their knowledge from the year in a final project 
 	<td>This project will span several days. Students are expected to embrace their creativity </td>
 
 <tr>
-	<th align="center" colspan="3">Coding Challenge (45min): hr.gs/finalcodingchallenge  </th>
+	<th align="center" colspan="3">Coding Challenge (45min): hr.gs/2017challenge  </th>
 </tr>
 </table>
 
