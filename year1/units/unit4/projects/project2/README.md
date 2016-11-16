@@ -8,7 +8,8 @@ This project asks the students to work in pairs to compete in  the online design
 This project should take 90 minutes to complete. Project may take less or more time depending on students' needs.  
 
 ##Teacher Notes & Pro Tips
-* It is encouraged that the teachers in the class complete this project and show off their final product to the class before they get started
+* This project involves an overwhelming amount of starter code. If you feel your students need direction getting started use [this resource](https://docs.google.com/document/d/1wDWWz-9vdT2gH4S8lvTfhg8g2mfid9DbyW6l51bC21E/edit).
+* It is encouraged that the teachers in the class complete this project and show off their final product to the class before they get started.
 * Students must work in pairs and present their work. This will help build professional skills.
 
 <br>
