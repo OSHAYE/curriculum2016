@@ -11,7 +11,7 @@ In this unit students are introduced to jQuery. jQuery is used as a tool for cre
 <tr>
 	<td align="left"> <a href="topics/topic1">1 Intro to Programming</a> </td>
 	<td>In lesson 1 students are brought through an interactive activity that encourages them to think like a computer program. </td>
-	<td>In lesson 2 the students will be introduced to basic jQuery selectors such as .hide(), .append(), .html() and .css()</td>
+	<td>In lesson 2 the students will be introduced to basic jQuery actions such as .hide(), .append(), .html() and .css()</td>
 </tr>
 <tr>
 	<th align="left"><a href ="projects/project1" >Project 1 </a> </th>
