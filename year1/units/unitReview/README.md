@@ -1,6 +1,6 @@
 #Review Unit
 
-In this unit the students are given a mid-year challenge in HackerRank that tests all of the skills learned until this point. Teachers are then given the opportunity to have students create a project that requires the students to practice skills that require more attention before moving onto unit 8.
+In this unit the students are given a mid-year challenge in HackerRank. It will test all of the skills learned until this point. Teachers are then given the opportunity to have students create a project that requires the students to practice skills that require more attention before moving onto unit 8.
 
 <table>
 <tr>
