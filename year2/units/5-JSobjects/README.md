@@ -10,13 +10,14 @@ This unit should take 120 minutes to complete. The project may take less or more
 ##Teacher Notes & Pro Tips
 * It is encouraged that the teachers in the class complete this project beforehand to understand what issues the students might encounter.
 * Students may or may not have an understanding of objects already. Practice makes perfect! 
+* Task 4 can be extremely challenging! It is recommended to not spend more than one class on this project. Do not spend a lot of time ensuring all students complete task 4. A better use of the class's time would be to move onto the next project after all students have completed task 3.
 
 <br>
 
 
 | Starter code | Solution Code |
 |-------|-------|
-|[Starter Code](https://github.com/ScriptEdcurriculum/JSobjects_Adv)| |
+|[Starter Code](https://github.com/ScriptEdcurriculum/JSobjects_Adv)|[Solution Code](https://github.com/ScriptEdcurriculum/solutions2016/tree/master/year2/5-objects) |
 
 ##[Google Slides](https://docs.google.com/presentation/d/1esamRfyAFhl2quGDxt3-NRvHLHwhFad9g-sYucYJlFg/edit?usp=sharing)
 
