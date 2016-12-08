@@ -9,6 +9,7 @@ This project should take 45 minutes to complete. Project may take less or more t
 
 ##Teacher Notes & Pro Tips
 * This project is being continued from Lesson 2 of this unit.
+* If a student was absent during lesson 2 they can begin with this [this starter code](https://github.com/ScriptEdcurriculum/tinyTurtleUnit8AlternateStarter)
 * The students are making function calls in Tiny Turtle they are not creating their own functions quite yet.
 * Ask students to stand up and "Play Turtle" when they are having issues writing commands for Tiny Turtle.
 
