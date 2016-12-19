@@ -7,7 +7,7 @@
 </tr>
 <tr>
 
-	<td>In this session the students will take a mid-year coding challenge using HackerRank the challenge will test their knowledge on all skills taught this school year. The average student should take 30 minutes to complete this challenge. However, please allot 45 minutes to complete it.</td>
+	<td>In this session the students will take a mid-year coding challenge using HackerRank. The challenge will test their knowledge on all skills taught this school year. The average student should take 30 minutes to complete this challenge. However, please allot 45 minutes to complete it.</td>
 
 </tr>
 </table>
