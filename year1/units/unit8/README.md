@@ -1,6 +1,6 @@
 #Unit 8: JavaScript Introduction
 
-In this unit the class will collaborate on a project using GitHub and Cloud 9.
+In this unit the students will be introduced to JavaScript functions using a visual JavaScript library.
 
 <table>
 <tr>
