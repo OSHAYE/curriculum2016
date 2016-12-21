@@ -1,5 +1,5 @@
-#Review Unit: Mid-Year Challenge
- ![Imgur](http://i.imgur.com/uRbrxKHm.jpg)
+#Review Unit: Topic 1 || Mid-term Trivia
+ ![Imgur](https://upload.wikimedia.org/wikipedia/en/2/27/Trivia.png)
   
 <table>
 <tr>
@@ -7,7 +7,7 @@
 </tr>
 <tr>
 
-	<td>In this session the students will take a mid-year coding challenge using HackerRank. The challenge will test their knowledge on all skills taught this school year. The average student should take 30 minutes to complete this challenge. However, please allot 45 minutes to complete it.</td>
+	<td>In this session, the students wil prepare for their upcoming mid-year challenge by competing in trivia. Trivia will test their knowledge of HTML, CSS, JavaScript, Githib, Git, ScriptEd and General Tech Knowledge.</td>
 
 </tr>
 </table>
@@ -16,7 +16,7 @@
 
 | <center> **Teacher Pro Tips** </center> |<center> **Slides** </center> |
 |-------|-------|
-|This is called a ` Mid-Year Coding Challenge` Do not use the T word (for reference, the T word is test... tis a dirty word that has no place in a ScriptEd classroom)| <ul><li><a href = "https://docs.google.com/presentation/d/1lAyp2PhmGa19fyjp1zggDU_Ks1njLOassBlBUS9vs-M/edit#slide=id.g14ecb9111c_1_0">Slides: Topic 1</a></li></ul> | 
+|<ul> <li>This is called a ` Mid-Year Coding Challenge` Do not use the T word (for reference, the T word is test... tis a dirty word that has no place in a ScriptEd classroom)</li> <li> <a href="https://drive.google.com/open?id=0B7Uz6SQ9Cpr0a0RycHN3WktRbFE">Answer Key</a></li> <li><a href"https://drive.google.com/open?id=0B7Uz6SQ9Cpr0elhEdllUSThjTzA">Blank Answer sheet</a></li></ul>| <ul><li><a href = "https://docs.google.com/presentation/d/1c06aYB9xp02aWgaaONSohjXbLeyrkUzbmhrVlygvQsQ/edit#slide=id.g14ecb9111c_1_0">Slides: Topic 1</a></li></ul> | 
 
 
 
