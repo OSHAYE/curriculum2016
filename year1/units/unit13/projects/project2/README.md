@@ -8,6 +8,7 @@ This project asks the students to create a fully functioning Hangman game.
 This project should take 270 minutes to complete. Project may take less or more time depending on students' needs.  
 
 ##Teacher Notes & Pro Tips
+* **This project is extremely challenging! It is at the team's discretion whether or not they should skip over this project and possibly return to it later.**
 * Not all student will know what Hangman is. Expect to explain this in the first class
 * A step may take less or more than one class. Be prepared to work through this at your class's necessary pace.
 * Teacher may choose to have students work alone or in pairs.
