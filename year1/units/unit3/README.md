@@ -31,7 +31,10 @@ In this unit students will first learn how to make ordered and unordered lists. 
 ##Extra Resources, Challenges and Projects
 [Common Core & Computer Science Standards Alignment](csStandards.md)
 
-Check out additional projects and resources created by other volunteers! Add your own! Click <a href="https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-3-html-lists-ids--classes">here</a>
+<a href="https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-3-html-lists-ids--classes">ScriptEd Unit 3 Wiki</a> (check this out for additional resources and add your own!)
+
+##Submit your feedback
+Click here
 
 
 
