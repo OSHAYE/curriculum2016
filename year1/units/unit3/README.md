@@ -26,10 +26,11 @@ In this unit students will first learn how to make ordered and unordered lists. 
 	<th align="left" colspan="2">The project for this unit has the student log onto a tutorial designed by General Assembly. This tutorial will reinforce student understanding of materials taught and will introduce CSS basics. </th>
 </table>
 
-[<a href="https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-3-html-lists-ids--classes">Check out other projects and resources from other volunteers! Remember to add your own!</a>]
+
 
 ##Extra Resources, Challenges and Projects
 [Common Core & Computer Science Standards Alignment](csStandards.md)
+Check out other projects and resources from other volunteers! Add your own! Click <a href="https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-3-html-lists-ids--classes">here</a>]
 
 
 
