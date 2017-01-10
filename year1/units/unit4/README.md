@@ -36,7 +36,7 @@ In this unit students will learn how to manipulate the look and feel of a webpag
 ##Extra Resources, Challenges and Projects
 [Common Core & Computer Science Standards Alignment](csStandards.md)
 
-<a href="https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-4-positioning-layout--wireframing">ScriptEd Unit 3 Wiki</a> (check this out for additional resources and add your own!)
+<a href="https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-4-positioning-layout--wireframing">ScriptEd Unit 4 Wiki</a> (check this out for additional resources and add your own!)
 
 ##Submit your feedback
 <a href="https://docs.google.com/a/scripted.org/forms/d/1-nZt8NEyRUWygIrbANoG7ofwXUyNNdl6i7x88cZHf-4/edit">Click here!</a>
