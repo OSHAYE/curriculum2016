@@ -30,3 +30,8 @@ In this unit students will be introduced to HTML. They will learn tag structure 
 
 [HTML basics (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
+
+<a href="https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-1-html-content">ScriptEd Unit 1 Wiki</a> (check this out for additional resources and add your own!)
+
+##Submit Your Feedback
+<a href="https://docs.google.com/a/scripted.org/forms/d/1-nZt8NEyRUWygIrbANoG7ofwXUyNNdl6i7x88cZHf-4/edit">Click here!</a>
