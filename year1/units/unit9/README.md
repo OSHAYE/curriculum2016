@@ -39,4 +39,8 @@ In this unit students are introduced to **Conditional Statements, Variables & St
 [Common Core & Computer Science Standards Alignment](csStandards.md)
 
 
+<a href="https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-9-conditionals-variables--strings">ScriptEd Unit 9 Wiki</a> (check this out for additional resources and add your own!)
+
+##Submit Your Feedback
+<a href="https://docs.google.com/a/scripted.org/forms/d/1-nZt8NEyRUWygIrbANoG7ofwXUyNNdl6i7x88cZHf-4/edit">Click here!</a>
 
