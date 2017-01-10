@@ -10,6 +10,8 @@
 
 ####For more information about ScriptEd go to [scripted.org](https://www.scripted.org)
 
+##Submit Your Feedback to the Curriculum Team
+<a href="https://docs.google.com/a/scripted.org/forms/d/1-nZt8NEyRUWygIrbANoG7ofwXUyNNdl6i7x88cZHf-4/edit">Click here!</a>
   
   <br>
 
