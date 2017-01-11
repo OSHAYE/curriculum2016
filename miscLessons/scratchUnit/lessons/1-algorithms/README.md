@@ -45,7 +45,7 @@ Students will be able to construct an algorithm in Scratch that moves a sprite a
 1. Volunteer takes attendance. [Procedure found here](https://docs.google.com/document/d/19IIhqykr70vj7wnqyJYuQNTkd9GX56Xgl3omD42IcMk/edit).
 2. Tell students to form their own opinion on the following quote:
 
-![image](http://i.imgur.com/JbvNKe1.png)
+![image](http://images.slideplayer.com/13/4025341/slides/slide_4.jpg)
 
 
 ### Opening
