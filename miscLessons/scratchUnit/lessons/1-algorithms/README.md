@@ -48,7 +48,7 @@ Students will be able to construct an algorithm in Scratch that moves a sprite a
 
 ![image](http://images.slideplayer.com/13/4025341/slides/slide_4.jpg)
 
-> Computers are incredibly fast, accurate and stupid; humans are incredibly slow, inaccurate and brilliant; together they are powerful beyond imagination.
+>  "The computer is incredibly fast, accurate, and stupid. Man is incredibly slow, inaccurate, and brilliant. The marriage of the two is a force beyond calculation."
 
 
 
