@@ -1,6 +1,6 @@
 #Unit 9: JavaScript: Conditionals, Variables and Strings
 
-In this unit students are introduced to **Conditional Statements, Variables & Strings** Through the course of making two games that ask the user to guess a certain word or number.
+In this unit students are introduced to **Conditional Statements, Variables & Strings** through the course of making two games that ask the user to guess a certain word or number.
 <table>
 <tr>
 	<th>Topic</th>
