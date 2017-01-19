@@ -18,7 +18,7 @@ In this unit the students will be introduced to JavaScript functions using a vis
 	<td colspan="2">This project has the students complete their Tiny Turtle project to create shapes from procedural commands made to the turtle in the form of functions.</td>
 </tr>
 <tr>
-	<th align="center" colspan="3">Unit Challenge: http://hr.gs/unit8codingchallenge </th>
+	<th align="center" colspan="3">Unit Challenge: http://hr.gs/unit8codingchallenge1 </th>
 </tr>
 
 
