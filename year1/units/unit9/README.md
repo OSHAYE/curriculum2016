@@ -9,8 +9,8 @@ In this unit students are introduced to **Value Types, Operators, Variables, & C
 </tr>
 <tr>
 	<td><a href="topics/topic1">2 If Statements & Variables</a></td>
-	<td>In lesson 1 students are introduced to conditional statements using IF. They are then asked to incorporate this new knowledge into jQuery skill they already have.   </td>
-	<td>In lesson 2 the students will create a mini project that uses variables. They will be working with strings throughout this practice too.</td>
+	<td>In lesson 1 the students will create a mini project that uses variables. They will be working with strings throughout this practice too.   </td>
+	<td>In lesson 2 students are introduced to conditional statements using IF. They are then asked to incorporate this new knowledge into jQuery skill they already have.</td>
 </tr>
 <tr>
 	<td><strong><a href="projects/project1">Project 1</a></strong></td>
