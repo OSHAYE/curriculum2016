@@ -8,7 +8,7 @@ In this unit students are introduced to **Value Types, Operators, Variables, & C
 	<th>Lesson 2 (45 min)</th>
 </tr>
 <tr>
-	<td><a href="topics/topic1">2 If Statements & Variables</a></td>
+	<td><a href="topics/topic1">2 Variables & If Statements </a></td>
 	<td>In lesson 1 the students will create a mini project that uses variables. They will be working with strings throughout this practice too.   </td>
 	<td>In lesson 2 students are introduced to conditional statements using IF. They are then asked to incorporate this new knowledge into jQuery skill they already have.</td>
 </tr>
