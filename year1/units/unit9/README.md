@@ -1,6 +1,6 @@
-#Unit 9: JavaScript: Conditionals, Variables and Strings
+#Unit 9: JavaScript: Value Types, Operators, Variables, and Conditionals
 
-In this unit students are introduced to **Conditional Statements, Variables & Strings** through the course of making two games that ask the user to guess a certain word or number.
+In this unit students are introduced to ** Value Types, Operators, Variables, & Conditional Statements** through the course of making two games that ask the user to guess a certain word or number.
 <table>
 <tr>
 	<th>Topic</th>
@@ -8,7 +8,7 @@ In this unit students are introduced to **Conditional Statements, Variables & St
 	<th>Lesson 2 (45 min)</th>
 </tr>
 <tr>
-	<td><a href="topics/topic1">1 If, Variables & Strings</a></td>
+	<td><a href="topics/topic1">2 If, Variables & Strings</a></td>
 	<td>In lesson 1 students are introduced to conditional statements using IF. They are then asked to incorporate this new knowledge into jQuery skill they already have.   </td>
 	<td>In lesson 2 the students will create a mini project that uses variables. They will be working with strings throughout this practice too.</td>
 </tr>
@@ -20,7 +20,7 @@ In this unit students are introduced to **Conditional Statements, Variables & St
 	<th align="center" colspan="3">Unit Challenge: hr.gs/unit9challenge </th>
 </tr>
 <tr>
-	<td><a href="topics/topic2">2 Else</a></td>
+	<td><a href="topics/topic2">3 Else</a></td>
 	<td>In lesson 1 students are introduced to the concept of "else". They will create conditional statements with multiple outcomes.  </td>
 	<td><strong>N/A</strong> Students will dive right into Project 2 after completing Topic 2 Lesson 1 </td>
 </tr>
