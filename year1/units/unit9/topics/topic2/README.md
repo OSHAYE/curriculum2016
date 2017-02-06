@@ -1,5 +1,5 @@
-#Unit 9: Topic 2 || If/Else
- ![Imgur](http://i.imgur.com/7sqWy7Am.png)
+#Unit 9: Topic 2 || Variables and If Statements
+ ![Imgur](http://i.imgur.com/6cwaNWa.jpg)
  
 <table>
 <tr>
@@ -8,8 +8,8 @@
 </tr>
 <tr>
 
-	<td>In lesson 1 students are introduced to the concept of "else". They will create conditional statements with multiple outcomes.  </td>
-	<td><strong>N/A</strong> Students will dive right into Project 2 after completing Topic 2 Lesson 1 </td>
+	<td>In lesson 1, students are introduced to variables.  They will create a mini project that uses variables. They will be working with strings throughout this practice too. </td>
+	<td>In lesson 2, students are introduced to conditional statements using "If". They are then asked to practice this new knowledge using jQuery skills they already have.</td>
 </tr>
 </table>
 
@@ -18,9 +18,9 @@
 
 | Objectives | Vocabulary |
 |-------|-------|
-| <ul>Students will be able to...<li> create a conditional statement using "if" and "else"</li> </ul>  | <ul>  <li>IF/Else statement</li> <li>Condition</li></ul> | 
+| <ul>Students will be able to...<li>declare a variable</li> <li> create a simple conditional statement using "if"</li>  </ul>  | <ul>   <li>Variable</li> <li>IF statement</li> <li>Condition</li></ul> | 
 | <center> **Teacher Pro Tips** </center> |<center> **Slides** </center> |
-|<ul><li>This unit adds the added difficulty of the term "else" to conditionals.</li> <li>In project 2 students will be asked to discover "else if" on their own. </li></ul>| <ul><li><a href = "https://docs.google.com/presentation/d/1yzZdux-cRBL9cwGS49WwOfbdivNPI0TOvf_6yx1FF9w/edit#slide=id.g14ecb9111c_1_0">Slides: Lesson 1</a></li></ul> | 
+|<ul><li>This unit only introduces "If" more complicated conditions including "else" come in the next topic.</li> <li>Students will be using Popcode for activities within this topic. It is important to remind them that this is for prototyping and our projects are still being completed in Cloud 9</li></ul>| <ul><li><a href = "https://docs.google.com/presentation/d/1lNSWilos9yjpj3dOUpr3Uhqk1y1X2e-gUIYRgdSQXwE/edit#slide=id.g14ecb9111c_1_0">Slides: Lesson 1</a></li> <li> <a href = "https://docs.google.com/presentation/d/1lNSWilos9yjpj3dOUpr3Uhqk1y1X2e-gUIYRgdSQXwE/edit#slide=id.g1bbfb55227_3_65" target="_blank">Slides: Lesson 2</a></li></ul> | 
 
 
 
