@@ -1,5 +1,5 @@
 #Unit 9: Topic 1 || Value Types and Operators
- ![Imgur](http://i.imgur.com/6cwaNWa.jpg)
+ ![Imgur](https://media.tenor.co/images/c376682ee95c470af51edf47e1051541/raw)
  
 <table>
 <tr>
@@ -18,9 +18,9 @@
 
 | Objectives | Vocabulary |
 |-------|-------|
-| <ul>Students will be able to...<li>declare a variable</li> <li> create a simple conditional statement using "if"</li>  </ul>  | <ul>   <li>Variable</li> <li>IF statement</li> <li>Condition</li></ul> | 
+| <ul>Students will be able to...<li>identify boolean, string, and number value types</li> <li> use the console to test code. </li> <li> evaluate the result of an expression using operators. </li>  </ul>  | <ul>   <li>boolean</li> <li>string</li> <li>numbers</li><li>console</li><li>operators</li></ul> | 
 | <center> **Teacher Pro Tips** </center> |<center> **Slides** </center> |
-|<ul><li>This unit only introduces "If" more complicated conditions including "else" come in the next topic.</li> <li>Students will be using Popcode for activities within this topic. It is important to remind them that this is for prototyping and our projects are still being completed in Cloud 9</li></ul>| <ul><li><a href = "https://docs.google.com/presentation/d/1lNSWilos9yjpj3dOUpr3Uhqk1y1X2e-gUIYRgdSQXwE/edit#slide=id.g14ecb9111c_1_0">Slides: Lesson 1</a></li> <li> <a href = "https://docs.google.com/presentation/d/1lNSWilos9yjpj3dOUpr3Uhqk1y1X2e-gUIYRgdSQXwE/edit#slide=id.g1bbfb55227_3_65" target="_blank">Slides: Lesson 2</a></li></ul> | 
+|<ul><li>This unit only introduces "If" more complicated conditions including "else" come in the next topic.</li> <li>Students will be using Popcode for activities within this topic. It is important to remind them that this is for prototyping and our projects are still being completed in Cloud 9</li></ul>| <ul><li><a href = "https://docs.google.com/presentation/d/1f8k6dbLAK_W-BndUKSGMZ_qbbNxZxSJLsD-MMQSz8eA/edit#slide=id.g14ecb9111c_1_0">Slides: Lesson 1</a></li> <li> <a href = "https://docs.google.com/presentation/d/1f8k6dbLAK_W-BndUKSGMZ_qbbNxZxSJLsD-MMQSz8eA/edit#slide=id.g1afddd7a0f_0_50">Slides: Lesson 2</a></li></ul> | 
 
 
 
