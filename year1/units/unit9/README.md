@@ -8,12 +8,12 @@ In this unit students are introduced to **Value Types, Operators, Variables, & C
 	<th>Lesson 2 (45 min)</th>
 </tr>
 <tr>
-	<td><a href="">1 Value Types & Operators </a></td>
+	<td><a href="topics/topic1">1 Value Types & Operators </a></td>
 	<td>In lesson 1, the students will be introduced to the console and value types. Students will use the <em>typeof()</em> function to test value types in the console.   </td>
 	<td>In lesson 2, students will evaluate the result of an expression using operators. </td>
 </tr>
 <tr>
-	<td><a href="topics/topic1">2 Variables & If Statements </a></td>
+	<td><a href="topics/topic2">2 Variables & If Statements </a></td>
 	<td>In lesson 1 the students will create a mini project that uses variables. They will be working with strings throughout this practice too.   </td>
 	<td>In lesson 2 students are introduced to conditional statements using IF. They are then asked to incorporate this new knowledge into jQuery skill they already have.</td>
 </tr>
@@ -25,7 +25,7 @@ In this unit students are introduced to **Value Types, Operators, Variables, & C
 	<th align="center" colspan="3">Unit Challenge: hr.gs/unit9challenge </th>
 </tr>
 <tr>
-	<td><a href="topics/topic2">3 Else</a></td>
+	<td><a href="topics/topic3">3 Else</a></td>
 	<td>In lesson 1 students are introduced to the concept of "else". They will create conditional statements with multiple outcomes.  </td>
 	<td><strong>N/A</strong> Students will dive right into Project 2 after completing Topic 2 Lesson 1 </td>
 </tr>
