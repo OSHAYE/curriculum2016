@@ -16,7 +16,7 @@
 
 | <center> **Teacher Pro Tips** </center> |<center> **Slides** </center> |
 |-------|-------|
-|This is called a ` Mid-Year Coding Challenge` Do not use the T word (for reference, the T word is test... tis a dirty word that has no place in a ScriptEd classroom)| <ul><li><a href = "https://docs.google.com/presentation/d/1lAyp2PhmGa19fyjp1zggDU_Ks1njLOassBlBUS9vs-M/edit#slide=id.g14ecb9111c_1_0">Slides: Topic 1</a></li></ul> | 
+|This is called a ` Mid-Year Coding Challenge` Do not use the T word (for reference, the T word is test... tis a dirty word that has no place in a ScriptEd classroom)| <ul><li><a href = "https://docs.google.com/presentation/d/13acuEkZ5Ktn0RnGqKpXRq8zL1BPNhUDT_qZRx3gEUko/edit#slide=id.g14ecb9111c_1_0">Slides: Topic 1</a></li></ul> | 
 
 
 
