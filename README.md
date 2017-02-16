@@ -2,7 +2,7 @@
 # ScriptEd Curriculum 2016-2017
 ![Imgur](http://i.imgur.com/KxRicIt.png)
 
-|Curriculums by Level|Information|
+|Curricula by Level|Information|
 |----|----|
 |[Foundations Course](year1)| The focus of this course is **Exposure**. Students are given their first introduction to coding. They will create projects in HTML, CSS and JavaScript.|
 |[Advanced Course](year2)| The focus of this course is **Experience**. In this course the students further develop their web development technical skills through lessons and projects that interact with JSON and popular APIs. Students will also be challenged to improve their professional skills in this course.|
