@@ -15,7 +15,7 @@ In this project students are tasked to create a function with two parameters tha
 
 | Starter code | Solution Code |
 |-------|-------|
-|[Starter Code](https://github.com/ScriptEdcurriculum/tinyTurtleUnit10Starter) | [Solution Code](https://github.com/ScriptEdcurriculum/tinyTurtleUnit10Starter) (private repo)|
+|[Starter Code](https://github.com/ScriptEdcurriculum/tinyTurtleUnit10Starter) | [Solution Code](https://github.com/MichaelOppong/tinyTurtleUnit10Starter) (private repo)|
 
 
 
