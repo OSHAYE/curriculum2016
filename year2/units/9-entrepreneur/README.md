@@ -1,15 +1,15 @@
-#Unit: Entrepreneur
+#Unit: Entrepreneurship Project
 
 ##Scope
-In this session, students will work in small groups to create a project from scratch. This project is intended to highlight some very important aspects of being a quality engineer that include:
+In this session, students will work in pairs to create a project from scratch. This project is intended to highlight some very important aspects of being a quality engineer that include:
 
 * Being a self-starter
-* Working in groups
+* Working on a team
 * Learning while creating
 * Time management
 
 ##Estimated Completion Time
-This activity should take as much time as the students and the teachers feel are necessary to complete quality projects.  
+This project is designed to take between 8 and 10 sessions.
 
 ##Teacher Notes & Pro Tips
 * Start small! Simple projects can become more detailed. Large projects often go unfinished.
@@ -20,7 +20,7 @@ This activity should take as much time as the students and the teachers feel are
 <br>
 
 
-##[Google Slides](https://docs.google.com/presentation/d/18uuEJoXbyOwuS4DDdgy-59FEepqsZEbJZhJWwxNR_4Q/edit?usp=sharing)
+##[Project Resources Here](https://drive.google.com/drive/folders/0B2BqRzBMPGfxMGpZQkRVeGpKOXc?usp=sharing)
 
 
 
