@@ -8,7 +8,7 @@
 <tr>
 
 	<td>In lesson 1 students will be introduced to **.keydown** they will use this to move elements around on a page.</td>
-	<td>In lesson 2 the students are introduced to collision detection. They will collide elements into eachother to initiate function calls</td>
+	<td>In lesson 2 the students are introduced to collision detection. They will collide elements into each other to initiate function calls</td>
 </tr>
 </table>
 
