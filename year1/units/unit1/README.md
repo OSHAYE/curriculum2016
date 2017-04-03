@@ -1,4 +1,4 @@
-#Unit 1: HTML Content 
+# Unit 1: HTML Content 
 
 In this unit students will be introduced to HTML. They will learn tag structure and will use basic tags `<head> <body> <p> <h1> <img> <a>`
 
@@ -24,7 +24,7 @@ In this unit students will be introduced to HTML. They will learn tag structure 
 </table>
 
 
-##Extra Resources, Challenges and Projects
+## Extra Resources, Challenges and Projects
 
 [Common Core & Computer Science Standards Alignment](csStandards.md)
 
@@ -33,5 +33,5 @@ In this unit students will be introduced to HTML. They will learn tag structure 
 
 <a href="https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-1-html-content">ScriptEd Unit 1 Wiki</a> (check this out for additional resources and add your own!)
 
-##Submit Your Feedback
+## Submit Your Feedback
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfx0wkLyw_jSOhWR2yY8GTR8TV2NXYZc40us7aPHnl9bO6WAQ/viewform">Click here!</a>

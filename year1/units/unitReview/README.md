@@ -1,4 +1,4 @@
-#Review Unit
+# Review Unit
 
 In this unit the students are given a mid-year challenge in HackerRank. It will test all of the skills learned until this point. Teachers are then given the opportunity to have students create a project that requires the students to practice skills that require more attention before moving onto unit 8. Also included in this unit is a trivia lesson designed to review content before students take the mid-year challenge.
 
@@ -25,7 +25,7 @@ In this unit the students are given a mid-year challenge in HackerRank. It will 
 </table>
 
 
-##Extra Resources, Challenges and Projects
+## Extra Resources, Challenges and Projects
 [Common Core & Computer Science Standards Alignment](csStandards.md)
 
 

@@ -1,4 +1,4 @@
-#Unit 2: CSS Tag Selectors 
+# Unit 2: CSS Tag Selectors 
 
 In this unit students will be taught how to manipulate the style of a webpage using basic CSS selectors.
 
@@ -23,7 +23,7 @@ In this unit students will be taught how to manipulate the style of a webpage us
 </table>
 
 
-##Extra Resources, Challenges and Projects
+## Extra Resources, Challenges and Projects
 [Common Core & Computer Science Standards Alignment](csStandards.md)
 
 [Find A favorite Google Font and Use It In Popcode](google-fonts-activity.md)
@@ -31,5 +31,5 @@ In this unit students will be taught how to manipulate the style of a webpage us
 
 <a href="https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-2-css-tag-selectors">ScriptEd Unit 2 Wiki</a> (check this out for additional resources and add your own!)
 
-##Submit Your Feedback
+## Submit Your Feedback
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfx0wkLyw_jSOhWR2yY8GTR8TV2NXYZc40us7aPHnl9bO6WAQ/viewform">Click here!</a>

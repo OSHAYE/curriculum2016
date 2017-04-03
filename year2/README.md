@@ -19,7 +19,7 @@ Advanced Course
 | 1 session| [Technical Interviewing](units/8-techInterviewing) | Professional Skills| What to expect in a technical interview and Staying involved in the Tech community. |
 | 8-10 sessions | [Entreprenuership Project](units/9-entrepreneur) | Project Management| Students will be creating their own product in small teams. |
 
-####Misc Lessons, Games and Projects
+#### Misc Lessons, Games and Projects
 
 | Lesson | Description |
 |-------|:-------:|

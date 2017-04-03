@@ -1,4 +1,4 @@
-#Unit 12: JavaScript: Animations and Collisions
+# Unit 12: JavaScript: Animations and Collisions
 
 In this unit students are introduced to the concept of game development as they begin to program simple **Animations & Collision Detections** using jQuery <table>
 <tr>
@@ -21,7 +21,7 @@ In this unit students are introduced to the concept of game development as they 
 </table>
 
 
-##Extra Resources, Challenges and Projects
+## Extra Resources, Challenges and Projects
 
 
 * Project Idea: Falling Snow: Randomly generate elements that fall from the top of the window  
@@ -31,6 +31,6 @@ In this unit students are introduced to the concept of game development as they 
 
 <a href="https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-12-loops">ScriptEd Unit 12 Wiki</a> (check this out for additional resources and add your own!)
 
-##Submit Your Feedback
+## Submit Your Feedback
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfx0wkLyw_jSOhWR2yY8GTR8TV2NXYZc40us7aPHnl9bO6WAQ/viewform">Click here!</a>
 

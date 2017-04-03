@@ -1,4 +1,4 @@
-#Unit 6: Topic 1 || Cloud 9 and GitHub
+# Unit 6: Topic 1 || Cloud 9 and GitHub
  ![Imgur](http://i.imgur.com/jN4HZ6x.png)
  
 <table>

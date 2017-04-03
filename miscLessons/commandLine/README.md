@@ -1,4 +1,4 @@
-#Lesson 1 - Command Line Basics
+# Lesson 1 - Command Line Basics
 
 ![image](http://i.imgur.com/FJ5Hsq0.jpg)
 
@@ -131,7 +131,7 @@ Give [exit ticket](assessments/exit_ticket.md).
 Today, you learned about the **command line**. This is important because the **command line** lets us talk to the computer in a defined and quick way. Also, the **command line** has not changed in decades and shows no signs of changing in the future.
 
 
-###How to Submit
+### How to Submit
 This project is not required to be submitted as projects in the past have been. Students may save this workspace in their Cloud9 account.
 
 ### Homework

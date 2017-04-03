@@ -1,10 +1,10 @@
-#Lesson 1 - Algorithms
+# Lesson 1 - Algorithms
 
 ![image](http://i.imgur.com/tM1CA61.png)
 
 ## Before Class
 ---
-###Teacher Preparation
+### Teacher Preparation
 * A basic understanding of Scratch. Teacher should be familiar with motion, looks, control and event blocks. 
 
 

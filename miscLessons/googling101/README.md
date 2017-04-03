@@ -1,11 +1,11 @@
-#Misc Lesson: Googling 101 
+# Misc Lesson: Googling 101 
 
 ![Imgur](http://i.imgur.com/LBhbHpD.jpg)
 
-##Summary (45 minutes)
+## Summary (45 minutes)
 In this lesson, the students will learn how to get the most out of their Google searches. Students will be taught how to make their searches brief yet powerful. Teachers will share best practices through mini-activities.
 
-##Teacher Notes & Pro Tips
+## Teacher Notes & Pro Tips
 * Less is more!
 * Encourage students to start every search with the language they are working in.
 * Please leave personal opinions to a minimum! Stick to facts about websearches.

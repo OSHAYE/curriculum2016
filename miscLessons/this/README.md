@@ -1,10 +1,10 @@
-#Misc Lesson: this 
+# Misc Lesson: this 
 
 ![Imgur](http://i.imgur.com/rFf5gqUm.jpg)
 
-##Summary (45 minutes)
+## Summary (45 minutes)
 In this lesson, the students will be introduced to this in terms of jQuery events. This lesson does not touch on `this` in terms of its use in objects. It is intended to be taught to students of varying abilities.
-##Teacher Notes & Pro Tips
+## Teacher Notes & Pro Tips
 * `this` is similar to the use of pronouns
 
 

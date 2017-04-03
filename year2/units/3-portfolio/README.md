@@ -1,13 +1,13 @@
-#Unit: Portfolio
+# Unit: Portfolio
 
 
-##Scope
+## Scope
 In this session students will create a professional portfoilio in which they can upload all their projects to.
 
-##Estimated Completion Time
+## Estimated Completion Time
 This unit should take 1 sessions to complete. 
 
-##Teacher Notes & Pro Tips
+## Teacher Notes & Pro Tips
 * There is ALOT of starter code in this project. Students should simply be plugging in links to their projects.
 * Site preview links can be created using either rawgit or GitHub pages
 
@@ -20,7 +20,7 @@ This unit should take 1 sessions to complete.
 
 ##[Google Slides](https://docs.google.com/presentation/d/1n5jYLGwAqVsr5XrGREWyTVKOeUPRQvlPCE-WyIV-4hI/edit?usp=sharing)
 
-##Project Extensions
+## Project Extensions
 Students who complete this task early are encouraged to:
 
 * Ensure their old projects run properly.

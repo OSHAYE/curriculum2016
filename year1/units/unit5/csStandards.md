@@ -1,9 +1,9 @@
-#Unit 5: jQuery
+# Unit 5: jQuery
 
 
 ## Standards Alignment
 
-####Common Core
+#### Common Core
 **[CCSS.ELA-Literacy.W.9-10.6](http://www.corestandards.org/ELA-Literacy/W/9-10/2/)** Use technology, including the Internet, to produce, publish, and update individual or shared writing products, taking advantage of technology’s capacity to link to other information and to display information flexibly and dynamically.  
 
 **[CCSS.ELA-Literacy.RH.9-10.9](http://www.corestandards.org/ELA-Literacy/RH/9-10/9/)** Compare and contrast treatments of the same topic in several primary and secondary sources.
@@ -17,7 +17,7 @@
 **[CCSS.MATH.PRACTICE.MP8](http://www.corestandards.org/Math/Practice/#CCSS.Math.Practice.MP8)**: Look for and express regularity in repeated reasoning.
 
 
-####CSTA
+#### CSTA
 
 **CPP.L2-03**
 

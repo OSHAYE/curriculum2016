@@ -1,13 +1,13 @@
-#Unit 4: Project 2 || CSS Zen Garden
+# Unit 4: Project 2 || CSS Zen Garden
 
 
-##Scope
+## Scope
 This project asks the students to work in pairs to compete in  the online design competition called <a href="https://www.csszengarden.com/">CSS Zen Garden</a>.
 
-##Estimated Completion Time
+## Estimated Completion Time
 This project should take 90 minutes to complete. Project may take less or more time depending on students' needs.  
 
-##Teacher Notes & Pro Tips
+## Teacher Notes & Pro Tips
 * This project involves an overwhelming amount of starter code. If you feel your students need direction getting started use [this resource](https://docs.google.com/document/d/1wDWWz-9vdT2gH4S8lvTfhg8g2mfid9DbyW6l51bC21E/edit).
 * It is encouraged that the teachers in the class complete this project and show off their final product to the class before they get started.
 * Students must work in pairs and present their work. This will help build professional skills.
@@ -20,7 +20,7 @@ This project should take 90 minutes to complete. Project may take less or more t
 
 ##[Google Slides](https://docs.google.com/presentation/d/16XxbPKe53wUsFqlqbRXADzlhGL7ferB-qwSnPkmmp6U/edit?usp=sharing)
 
-##Project Extensions
+## Project Extensions
 This project can never be complete :) CSS/Design is a process of continuous improvement!
 
 

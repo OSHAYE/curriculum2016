@@ -1,4 +1,4 @@
-#Unit 8: Topic 1 || JavaScript Discovery
+# Unit 8: Topic 1 || JavaScript Discovery
  ![Imgur](http://i.imgur.com/4soy0jZm.png)
  
 <table>
