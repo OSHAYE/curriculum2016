@@ -1,4 +1,4 @@
-#Unit 3: Topic 2 || Classes, IDs & Divs  
+# Unit 3: Topic 2 || Classes, IDs & Divs  
 
  ![Imgur](http://i.imgur.com/DuOsNAP.jpg)
  
