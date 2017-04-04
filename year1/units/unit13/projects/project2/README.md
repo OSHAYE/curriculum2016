@@ -1,13 +1,13 @@
-#Unit 12: Project 2 || Hangman
+# Unit 12: Project 2 || Hangman
 
 
-##Scope
+## Scope
 This project asks the students to create a fully functioning Hangman game.
 
-##Estimated Completion Time
+## Estimated Completion Time
 This project should take 270 minutes to complete. Project may take less or more time depending on students' needs.  
 
-##Teacher Notes & Pro Tips
+## Teacher Notes & Pro Tips
 * **This project is extremely challenging! It is at the team's discretion whether or not they should skip over this project and possibly return to it later.**
 * Not all student will know what Hangman is. Expect to explain this in the first class
 * A step may take less or more than one class. Be prepared to work through this at your class's necessary pace.
@@ -29,7 +29,7 @@ This project includes detailed guided docs that could be useful for anyone leadi
 
 ##[Google Slides](https://docs.google.com/presentation/d/1yaBx7PiRJ0egSAkfovDht8uVWjyyU8aDo8ZtzWUfjSs/edit?usp=sharing)
 
-##Project Extensions
+## Project Extensions
 If students complete this project early, they should be encouraged to...
 
 * Add a feature that shows a bank of already used letters

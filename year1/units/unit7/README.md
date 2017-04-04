@@ -1,4 +1,4 @@
-#Unit 7: GitHub Collaboration 
+# Unit 7: GitHub Collaboration 
 
 In this unit the class will collaborate on a project using GitHub and Cloud 9.
 
@@ -20,14 +20,14 @@ In this unit the class will collaborate on a project using GitHub and Cloud 9.
 </table>
 
 
-##Extra Resources, Challenges and Projects
+## Extra Resources, Challenges and Projects
 **Project:** [Portfolio Collaboration](https://github.com/Bijesse/scripted-student-portfolios) In this project the class creates a landing page for all their portfolios. 
 
 [Common Core & Computer Science Standards Alignment](csStandards.md)
 
 <a href="https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-7-github-collaboration">ScriptEd Unit 7 Wiki</a> (check this out for additional resources and add your own!)
 
-##Submit Your Feedback
+## Submit Your Feedback
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfx0wkLyw_jSOhWR2yY8GTR8TV2NXYZc40us7aPHnl9bO6WAQ/viewform">Click here!</a>
 
 

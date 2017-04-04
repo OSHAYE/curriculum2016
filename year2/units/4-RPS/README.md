@@ -1,13 +1,13 @@
-#Unit: Rock Paper Scissors
+# Unit: Rock Paper Scissors
 
 
-##Scope
+## Scope
 This unit will ask the students to create a Rock, Paper, Scissors game. This particular project is completed in two stages. Students will first create a functioning game that operates in the console. Then they will create a fully functioning game that operates with clicking events. 
 
-##Estimated Completion Time
+## Estimated Completion Time
 This unit should take 2 sessions to complete. Project may take less or more time depending on students' needs but should not exceed 3 sessions.  
 
-##Teacher Notes & Pro Tips
+## Teacher Notes & Pro Tips
 
 * Follow the steps set out in the comments of the script.js files
 * Print copies of the Do Now before class. 
@@ -24,7 +24,7 @@ This unit should take 2 sessions to complete. Project may take less or more time
 
 ##[Google Slides](https://docs.google.com/presentation/d/1Srin1A05uT-jCEj8PhyhRqlKlavs8klrwd07ojnsNQk/edit#slide=id.g135945ce02_0_222)
 
-##Project Extensions
+## Project Extensions
 Students who complete this task early are encouraged to:
 
 * Add CSS to this project

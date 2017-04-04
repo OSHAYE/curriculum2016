@@ -1,4 +1,4 @@
-#Unit 11: JavaScript: Math and Arrays
+# Unit 11: JavaScript: Math and Arrays
 
 In this unit students are introduced to the JavaScript **Math library** in the form of a dice simulation game. After that they will be introduced to **Arrays**.
 <table>
@@ -33,7 +33,7 @@ In this unit students are introduced to the JavaScript **Math library** in the f
 </table>
 
 
-##Extra Resources, Challenges and Projects
+## Extra Resources, Challenges and Projects
 
 * Project: [Random Color Square](projects/projectColorSquare). Extension to earlier project. Great resource! 
 * Project: Magic 8 ball app
@@ -42,6 +42,6 @@ In this unit students are introduced to the JavaScript **Math library** in the f
 
 <a href="https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-11-math--arrays">ScriptEd Unit 11 Wiki</a> (check this out for additional resources and add your own!)
 
-##Submit Your Feedback
+## Submit Your Feedback
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfx0wkLyw_jSOhWR2yY8GTR8TV2NXYZc40us7aPHnl9bO6WAQ/viewform">Click here!</a>
 

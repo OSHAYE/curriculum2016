@@ -1,13 +1,13 @@
-#Unit: Foursquare API
+# Unit: Foursquare API
 
 
-##Scope
+## Scope
 In this session, students will create a webapp using the Foursquare API. The webapp will consist of an input field and button that will be used to display relevant restaurants nearby of a specified food category. 
 
-##Estimated Completion Time
+## Estimated Completion Time
 This unit should take 2 sessions to complete. Project may take less or more time depending on students' needs but should not exceed 3 sessions.  
 
-##Teacher Notes & Pro Tips
+## Teacher Notes & Pro Tips
 * The HTTP request found [here](https://developer.foursquare.com/start/search) has spaces in it. Students often get tripped up by this.
 
 <br>
@@ -19,7 +19,7 @@ This unit should take 2 sessions to complete. Project may take less or more time
 
 ##[Google Slides](https://docs.google.com/presentation/d/1z2iGx3tTcufLSjG1u1tOHCmh297R9loi6A1Rfq9rlKU/edit#slide=id.g135945ce02_0_222)
 
-##Project Extensions
+## Project Extensions
 Students who complete this task early are encouraged to:
 
 * Create a loop that displays the images on the page

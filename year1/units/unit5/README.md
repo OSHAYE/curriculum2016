@@ -1,4 +1,4 @@
-#Unit 5: jQuery
+# Unit 5: jQuery
 
 In this unit students are introduced to jQuery. jQuery is used as a tool for creating interactive websites that react to user actions.
 
@@ -34,14 +34,14 @@ In this unit students are introduced to jQuery. jQuery is used as a tool for cre
 </table>
 
 
-##Extra Resources, Challenges and Projects
+## Extra Resources, Challenges and Projects
 **Project:** [Do you love ScriptEd?](https://popcode.org/?gist=0b45fb64254646f993da2804b691a497) This can be completed with topic 1 skills only
 
 [Common Core & Computer Science Standards Alignment](csStandards.md)
 
 <a href="https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-5-jquery">ScriptEd Unit 5 Wiki</a> (check this out for additional resources and add your own!)
 
-##Submit Your Feedback
+## Submit Your Feedback
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfx0wkLyw_jSOhWR2yY8GTR8TV2NXYZc40us7aPHnl9bO6WAQ/viewform">Click here!</a>
 
 

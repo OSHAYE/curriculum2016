@@ -1,13 +1,13 @@
-#Unit 9: Project 2 || HiLo
+# Unit 9: Project 2 || HiLo
 
 
-##Scope
+## Scope
 This project asks the students to create a game called HiLo. The premise is to guess a number predetermined by the program.
 
-##Estimated Completion Time
+## Estimated Completion Time
 This project should take 90 minutes to complete. Project may take less or more time depending on students' needs.  
 
-##Teacher Notes & Pro Tips
+## Teacher Notes & Pro Tips
 * Challenge the students to discover how to create If/Else if/Else statements on their own. Self discovery is a useful skill!
 * There are many way to extend this project for students who are moving quickly. Feel free to extend for whole class if you feel it is useful.
 
@@ -19,7 +19,7 @@ This project should take 90 minutes to complete. Project may take less or more t
 
 ##[Google Slides](https://docs.google.com/presentation/d/1yzZdux-cRBL9cwGS49WwOfbdivNPI0TOvf_6yx1FF9w/edit#slide=id.g11512f67a7_0_57)
 
-##Project Extensions
+## Project Extensions
 If students complete this project early, they should be encouraged to...
 
 * Add interesting CSS to this project

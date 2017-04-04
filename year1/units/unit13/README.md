@@ -1,4 +1,4 @@
-#Unit 13: JavaScript: Loops
+# Unit 13: JavaScript: Loops
 
 In this unit students will be introduced to **For Loops.** They will generate images rapidly on an HTML page and will then revisit Tiny Turtle to create fractal art programs.
 <table>
@@ -26,7 +26,7 @@ In this unit students will be introduced to **For Loops.** They will generate im
 </table>
 
 
-##Extra Resources, Challenges and Projects
+## Extra Resources, Challenges and Projects
 
 
 
@@ -35,6 +35,6 @@ In this unit students will be introduced to **For Loops.** They will generate im
 
 <a href="https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-13-animations-and-collisions">ScriptEd Unit 13 Wiki</a> (check this out for additional resources and add your own!)
 
-##Submit Your Feedback
+## Submit Your Feedback
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfx0wkLyw_jSOhWR2yY8GTR8TV2NXYZc40us7aPHnl9bO6WAQ/viewform">Click here!</a>
 

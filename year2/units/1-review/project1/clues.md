@@ -1,9 +1,9 @@
-#Scavenger Hunt Clues
+# Scavenger Hunt Clues
 ![Image](http://i.imgur.com/7PecKI9.png)
 
 
 ===================
-####HTML/CSS
+#### HTML/CSS
 These programs must be completed in either jsBin or cloud9.
 
 | Clue  | Name | Create a webpage/website that... | Points | 
@@ -18,7 +18,7 @@ These programs must be completed in either jsBin or cloud9.
 
   
   
-####JavaScript: Variables & Strings
+#### JavaScript: Variables & Strings
 
 | Clue  | Name | Create a program that... | Points | 
 |-------|:-------:|------|--------------|
@@ -28,7 +28,7 @@ These programs must be completed in either jsBin or cloud9.
 | 10 | roman.js  | ...can convert any integer from 1-100 into a roman numeral.| 20 |  
 
 
-####JavaScript: Conditionals
+#### JavaScript: Conditionals
 
 | Clue  | Name | Create a program that... | Points | 
 |-------|:-------:|------|--------------|
@@ -36,7 +36,7 @@ These programs must be completed in either jsBin or cloud9.
 | 3 | class.js | ...asks a student what grade they are in and responds with "You are a Freshman", "Sophomore", "Junior" or "Senior". | 5 |
 | 4 | grade.js | ...can convert a test grade (1-100) to a letter grade (A-F). | 10|
 
-####JavaScript: Functions
+#### JavaScript: Functions
 
 | Clue  | Name | Create a program that... | Points | 
 |-------|:-------:|------|--------------|
@@ -44,7 +44,7 @@ These programs must be completed in either jsBin or cloud9.
 | 2 | timesTwo | ...has a parameter of x and returns the value of 2x  | 4 | 
 
 
-####JavaScript: Loops
+#### JavaScript: Loops
 
 | Clue  | Name | Create a program that... | Points | 
 |-------|:-------:|------|--------------|
@@ -52,7 +52,7 @@ These programs must be completed in either jsBin or cloud9.
 | 2 | sum55.js | ...prints the sum of the numbers 1 through 55. (final value is 1540) | 4 | 
 | 3 | prod15.js | ...prints the product of the numbers 1 through 15. (final value is 1307674368000)  | 4 |
 
-####JavaScript: Loops/Arrays
+#### JavaScript: Loops/Arrays
 
 | Clue  | Name | Create a program that... | Points | 
 |-------|:-------:|------|--------------|
@@ -62,7 +62,7 @@ These programs must be completed in either jsBin or cloud9.
 | 4 | 99bottles.js | ...counts down from 99 to 1 repeating the string "# bottles of milk on the wall, # bottles of milk". | 5 | 
 
 
-####jQuery
+#### jQuery
 
 | Clue  | Name | Create a program that... | Points | 
 |-------|:-------:|------|--------------|
@@ -71,7 +71,7 @@ These programs must be completed in either jsBin or cloud9.
 | 3 |  Clicking | ...create a page that when a user clicks on a div tag it will hide from site.  | 4 | 
 | 4 | Hello Name Input | ...asks the user for their name in an input field then prints a greeting to you in a p tag on the page after they click a button  | 10 | 
 
-####GitHub
+#### GitHub
 
 | Clue  | Name | Create a program that... | Points | 
 |-------|:-------:|------|--------------|

@@ -1,4 +1,4 @@
-#Unit 4: Positioning, Layout and Wireframing 
+# Unit 4: Positioning, Layout and Wireframing 
 
 In this unit students will learn how to manipulate the look and feel of a webpage using CSS. Until this point, all pages the students have created are aligned to the left of the page and each element has its own row. In this unit students will be introduced to properties that allow for greater visual manipulation.  
 
@@ -33,12 +33,12 @@ In this unit students will learn how to manipulate the look and feel of a webpag
 </table>
 
 
-##Extra Resources, Challenges and Projects
+## Extra Resources, Challenges and Projects
 [Common Core & Computer Science Standards Alignment](csStandards.md)
 
 <a href="https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-4-positioning-layout--wireframing">ScriptEd Unit 4 Wiki</a> (check this out for additional resources and add your own!)
 
-##Submit your feedback
+## Submit your feedback
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfx0wkLyw_jSOhWR2yY8GTR8TV2NXYZc40us7aPHnl9bO6WAQ/viewform">Click here!</a>
 
 

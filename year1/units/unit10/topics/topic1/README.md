@@ -1,4 +1,4 @@
-#Unit 10: Topic 1 || Functions and Parameters
+# Unit 10: Topic 1 || Functions and Parameters
  ![Imgur](http://i.imgur.com/18dWwdS.jpg)
  
 <table>

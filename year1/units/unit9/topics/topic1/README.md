@@ -1,4 +1,4 @@
-#Unit 9: Topic 1 || Value Types and Operators
+# Unit 9: Topic 1 || Value Types and Operators
  ![Imgur](https://media.tenor.co/images/c376682ee95c470af51edf47e1051541/raw)
  
 <table>

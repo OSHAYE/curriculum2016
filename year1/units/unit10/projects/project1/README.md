@@ -1,13 +1,13 @@
-#Unit 10: Project 1 || Turtle functions
+# Unit 10: Project 1 || Turtle functions
 
 
-##Scope
+## Scope
 In this project students are tasked to create a function with two parameters that can draw any shape the user asks.
 
-##Estimated Completion Time
+## Estimated Completion Time
 <strong>Project 1 is completed during lesson 2. Therefore no extra time needs to be allotted.</strong> 
 
-##Teacher Notes & Pro Tips
+## Teacher Notes & Pro Tips
 * The Tiny Turtle Library requires canvas to be in the head of the page. Do not manipulate this.
 
 
@@ -19,7 +19,7 @@ In this project students are tasked to create a function with two parameters tha
 
 
 
-##Project Extensions
+## Project Extensions
 If students complete this project early, they can be challenges to add a third parameter called `sides` that will generate the amount of sides needed for a shape.
 
 

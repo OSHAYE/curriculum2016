@@ -1,4 +1,4 @@
-#Mid-Year Coding Challenge
+# Mid-Year Coding Challenge
  ![Imgur](http://i.imgur.com/uRbrxKHm.jpg)
  
 In this unit the students are given a mid-year challenge in HackerRank. Students must take this seriously as internship placements will be affected by the results of this challenge. The average student should take 30 minutes to complete this challenge. However, please allot 45 minutes to complete it.
@@ -12,7 +12,7 @@ In this unit the students are given a mid-year challenge in HackerRank. Students
 </table>
 
 
-##Extra Resources, Challenges and Projects
+## Extra Resources, Challenges and Projects
 [Common Core & Computer Science Standards Alignment](csStandards.md)
 
 

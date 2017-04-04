@@ -1,13 +1,13 @@
-#Unit 11: Project 2 || The Class Randomizer
+# Unit 11: Project 2 || The Class Randomizer
 
 
-##Scope
+## Scope
 This project asks the students to create a webapp that randomly selects a student and a teacher from the class.
 
-##Estimated Completion Time
+## Estimated Completion Time
 This project should take 45 minutes to complete. Project may take less or more time depending on students' needs.  
 
-##Teacher Notes & Pro Tips
+## Teacher Notes & Pro Tips
 * Students may not know everyone's name. Use this as an opportunity to have everyone formally meet each other.
 * The do now will likely confuse some. However, it is important to make sure EVERY student understands it. 
 
@@ -19,7 +19,7 @@ This project should take 45 minutes to complete. Project may take less or more t
 
 ##[Google Slides](https://docs.google.com/presentation/d/15_PM3BGew-tPXcxOT3Fbbi0uD3cYusw39qn02Lx-okg/edit?usp=sharing)
 
-##Project Extensions
+## Project Extensions
 If students complete this project early, they should be encouraged to...
 
 * Add interesting CSS to this project

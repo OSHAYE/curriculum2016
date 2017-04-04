@@ -1,4 +1,4 @@
-#Unit 0: Topic 1 || Elements & Icebreakers
+# Unit 0: Topic 1 || Elements & Icebreakers
  ![Imgur](http://i.imgur.com/fq0OEji.png)
  
 | Lesson 1 (45 min) | Lesson 2 (45 min) | 

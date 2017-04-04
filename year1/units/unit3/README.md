@@ -1,4 +1,4 @@
-#Unit 3: HTML Lists, Classes & IDs 
+# Unit 3: HTML Lists, Classes & IDs 
 
 In this unit students will first learn how to make ordered and unordered lists. They will then utilize IDs and Classes to identify tags on a webpage.
 
@@ -28,12 +28,12 @@ In this unit students will first learn how to make ordered and unordered lists. 
 
 
 
-##Extra Resources, Challenges and Projects
+## Extra Resources, Challenges and Projects
 [Common Core & Computer Science Standards Alignment](csStandards.md)
 
 <a href="https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-3-html-lists-ids--classes">ScriptEd Unit 3 Wiki</a> (check this out for additional resources and add your own!)
 
-##Submit your feedback
+## Submit your feedback
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfx0wkLyw_jSOhWR2yY8GTR8TV2NXYZc40us7aPHnl9bO6WAQ/viewform">Click here!</a>
 
 

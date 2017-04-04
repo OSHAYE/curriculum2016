@@ -1,13 +1,13 @@
-#Unit: Open Weather API
+# Unit: Open Weather API
 
 
-##Scope
+## Scope
 In this session, students will create a webapp using the Open Weather API. The webapp will consist of an input field and a button that will be used to display weather dependant on the area the user queries. 
 
-##Estimated Completion Time
+## Estimated Completion Time
 This unit should take 2 sessions to complete. Project may take less or more time depending on students' needs but should not exceed 3 sessions.  
 
-##Teacher Notes & Pro Tips
+## Teacher Notes & Pro Tips
 * The protocol might need to change on the API endpoint depending on the network you are on. HTTPS seems to be buggy with Open Weather.  
 <br>
 
@@ -18,7 +18,7 @@ This unit should take 2 sessions to complete. Project may take less or more time
 
 ##[Google Slides](https://docs.google.com/presentation/d/1lQ2SeIdKKtR7wGXC1O1yp8Nq1cga2drVU8gTDPMbtnI/edit?usp=sharing)
 
-##Project Extensions
+## Project Extensions
 Students who complete this task early are encouraged to:
 
 * Add CSS

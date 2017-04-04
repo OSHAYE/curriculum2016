@@ -4,7 +4,7 @@
 
 ## Before Class
 ---
-###Teacher Preparation
+### Teacher Preparation
 * A further understanding of Scratch. Teacher should be familiar with sensing, control, operator and data blocks.
 
 ### Daily Objective

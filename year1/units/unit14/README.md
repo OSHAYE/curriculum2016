@@ -1,4 +1,4 @@
-#Unit 14: Capstone Project
+# Unit 14: Capstone Project
 
 Students will be compiling all their knowledge from the year in a final project which resembles a "space invaders" style game. Students will be broken up into groups of 2-3
 
@@ -17,12 +17,12 @@ Students will be compiling all their knowledge from the year in a final project 
 </table>
 
 
-##Extra Resources, Challenges and Projects
+## Extra Resources, Challenges and Projects
 
 [Common Core & Computer Science Standards Alignment](csStandards.md)
 
 <a href="https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-14-capstone-project">ScriptEd Unit 14 Wiki</a> (check this out for additional resources and add your own!)
 
-##Submit Your Feedback
+## Submit Your Feedback
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfx0wkLyw_jSOhWR2yY8GTR8TV2NXYZc40us7aPHnl9bO6WAQ/viewform">Click here!</a>
 

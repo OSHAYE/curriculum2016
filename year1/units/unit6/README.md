@@ -1,4 +1,4 @@
-#Unit 6: Cloud 9, GitHub & Multi-Page Sites 
+# Unit 6: Cloud 9, GitHub & Multi-Page Sites 
 
 In this unit students will be introduced to a new IDE called Cloud 9. They will then create a project using Cloud 9 and GitHub using skills they have already gained in previous units.
 
@@ -26,13 +26,13 @@ In this unit students will be introduced to a new IDE called Cloud 9. They will 
 </table>
 
 
-##Extra Resources, Challenges and Projects
+## Extra Resources, Challenges and Projects
 
 
 [Common Core & Computer Science Standards Alignment](csStandards.md)
 
 <a href="https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-6-cloud-9--multi-page-sites">ScriptEd Unit 6 Wiki</a> (check this out for additional resources and add your own!)
 
-##Submit Your Feedback
+## Submit Your Feedback
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfx0wkLyw_jSOhWR2yY8GTR8TV2NXYZc40us7aPHnl9bO6WAQ/viewform">Click here!</a>
 

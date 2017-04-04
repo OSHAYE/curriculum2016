@@ -1,13 +1,13 @@
-#Unit 14: Capstone Project
+# Unit 14: Capstone Project
 
 
-##Scope
+## Scope
 Students will be compiling all their knowledge from the year in a final project which resembles a "space invaders" style game. Students will be broken up into groups of 2-3
 
-##Estimated Completion Time
+## Estimated Completion Time
 This project should should take 6 lessons (270 min) to complete. Project may take more or less time depending on students' needs
 
-##Teacher Notes & Pro Tips
+## Teacher Notes & Pro Tips
 * This project will span several classes. It is important to start off each day with a do now and end each day with a scrum. This keeps everyone focused.
 * Students often set unrealistic daily goals. Encourage them to break up goals in to very small, attainable tasks.
 * To save time, Scrums can be completed in small groups with one volunteer assigned to each scrum.
@@ -20,7 +20,7 @@ This project should should take 6 lessons (270 min) to complete. Project may tak
 
 ##[Google Slides](https://docs.google.com/presentation/d/1NvnX1AlpYzmjqVpwc7EijRoLsguq0ytX1E2XxwPqhSI/edit#slide=id.g12ee5b58a7_1_0)
 
-##Project Extensions
+## Project Extensions
 Students are encouraged to be endlessly creative in this project. Examples of ways to improve this project are...
 
 * create a win/lose feature

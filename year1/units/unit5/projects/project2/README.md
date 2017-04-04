@@ -1,13 +1,13 @@
-#Unit 5: Project 2 || jQuery Fun House
+# Unit 5: Project 2 || jQuery Fun House
 
 
-##Scope
+## Scope
 This project asks the students to create a site that uses all the skills they have learned thus far with jQuery. This includes click handlers, retrieving a value and changing an attribute.
 
-##Estimated Completion Time
+## Estimated Completion Time
 This project should take 90 minutes to complete. Project may take less or more time depending on students' needs.  
 
-##Teacher Notes & Pro Tips
+## Teacher Notes & Pro Tips
 * Show off the solution project before starting. Deployable link found [here](https://outoftime.github.io/jqWestinghouse/)
 * There are several ways to complete this project. The simpliest way is expected. Completing this project does not require any further skills than what is expected.
 
@@ -19,7 +19,7 @@ This project should take 90 minutes to complete. Project may take less or more t
 
 ##[Google Slides](https://docs.google.com/presentation/d/1rCVCIqXSNU7N2zfZuuD6APR5BQMoqs4rKFL5dz4EAmw/edit?usp=sharing)
 
-##Project Extensions
+## Project Extensions
 
 * Students that complete early may add styles and more functionality to this site.
 * If a student is up for a challenge they could be asked to research the concept of "this" and implement it on their site. 

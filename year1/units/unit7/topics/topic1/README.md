@@ -1,4 +1,4 @@
-#Unit 7: Topic 1 || Mr. Potato Head
+# Unit 7: Topic 1 || Mr. Potato Head
  ![Imgur](http://i.imgur.com/Vy06FW3.gif)
   
 <table>

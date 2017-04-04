@@ -1,13 +1,13 @@
-#Unit 10: Project 2 || Calculator
+# Unit 10: Project 2 || Calculator
 
 
-##Scope
+## Scope
 This project asks the students to create a calculator with basic functionality. This project provides the student with a lot of solution code. Students will need only to create functions for each calculator action. 
 
-##Estimated Completion Time
+## Estimated Completion Time
 This project should take 45 minutes to complete. Project may take less or more time depending on students' needs.  
 
-##Teacher Notes & Pro Tips
+## Teacher Notes & Pro Tips
 * CStudents should not touch calculator.js... they must only add code to guts.js
 * Stduents have not yet been taught how to create each action. The following unit covers random. This project can be revisited in a couple weeks if the teacher decides they would like to approach it in this way.
 
@@ -19,7 +19,7 @@ This project should take 45 minutes to complete. Project may take less or more t
 
 ##[Google Slides](https://docs.google.com/presentation/d/1fUpLevnu9rBMeFMEdpxlXRNk6yjlaVusHpAggzJjWJo/edit?usp=sharing)
 
-##Project Extensions
+## Project Extensions
 If students complete this project early, they should be encouraged to...
 
 * Add interesting CSS to this project

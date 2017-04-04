@@ -1,4 +1,4 @@
-###ScriptEd Curriculum 2016-2017
+### ScriptEd Curriculum 2016-2017
 
 Year 1
 ===================
@@ -22,7 +22,7 @@ Year 1
 | 360 minutes | [**14**](units/unit14) | Capstone Project |Students will be compiling all their knowledge from the year in a final project which resembles a "space invaders" style game. |
 
 
-####Misc Lessons, Games and Projects
+#### Misc Lessons, Games and Projects
 
 | Lesson | Description |
 |-------|:-------:|
@@ -39,7 +39,7 @@ Year 1
 ![Imgur](http://i.imgur.com/P6Mdcqe.png)
 This calendar is a recommended schedule to be followed in ScriptEd courses.
 
-##School Teacher Resources
+## School Teacher Resources
 
 * [Pacing Guide for in-class teachers](https://docs.google.com/document/d/1OMvWCohkD68hIjBKMevw99etwpVFE32XCBaGakV6eB8/edit?usp=sharing): To be used in ScriptEd course that are co-taught with a teacher from the school.
 * [CodeCademy Class Creator Guidelines](https://docs.google.com/document/d/1-6vh1QM2h0tZzTIl_183C_lt7ezv_pQ-QXsHQKkDAgQ/edit)  

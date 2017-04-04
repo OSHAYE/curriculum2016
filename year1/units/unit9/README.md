@@ -1,4 +1,4 @@
-#Unit 9: JavaScript: Value Types, Operators, Variables, and Conditionals
+# Unit 9: JavaScript: Value Types, Operators, Variables, and Conditionals
 
 In this unit students are introduced to **Value Types, Operators, Variables, & Conditional Statements** through the course of making two games that ask the user to guess a certain word or number.
 <table>
@@ -38,7 +38,7 @@ In this unit students are introduced to **Value Types, Operators, Variables, & C
 </table>
 
 
-##Extra Resources, Challenges and Projects
+## Extra Resources, Challenges and Projects
 
 
 [Common Core & Computer Science Standards Alignment](csStandards.md)
@@ -46,6 +46,6 @@ In this unit students are introduced to **Value Types, Operators, Variables, & C
 
 <a href="https://github.com/ScriptEdcurriculum/curriculum2016/wiki/foundationsCourse#unit-9-conditionals-variables--strings">ScriptEd Unit 9 Wiki</a> (check this out for additional resources and add your own!)
 
-##Submit Your Feedback
+## Submit Your Feedback
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfx0wkLyw_jSOhWR2yY8GTR8TV2NXYZc40us7aPHnl9bO6WAQ/viewform">Click here!</a>
 
