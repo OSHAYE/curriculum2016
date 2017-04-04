@@ -1,4 +1,5 @@
-# Unit 3: Topic 2 || Classes, IDs & Divs
+# Unit 3: Topic 2 || Classes, IDs & Divs  
+
  ![Imgur](http://i.imgur.com/DuOsNAP.jpg)
  
 <table>
@@ -12,7 +13,9 @@
 </tr>
 
 </table>
-***
+
+***  
+
 | Objectives | Vocabulary |
 |-------|-------|
 | <ul>Students will be able to...<li> Add an ID or Class to an HTML tag.</li> <li>Add style to a class or ID by using a valid CSS selector.</li> <l1>Implement a div tag onto their webpage.</li></ul>  | <ul> <li>ID</li> <li>Class</li> <li>Selector</li>  <li>Div</li></ul> | 
