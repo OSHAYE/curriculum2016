@@ -9,7 +9,7 @@ In this unit, the students are given the final HackerRank challenge. It will tes
 </tr>
 <tr>
 	<td align="left"> <a href="topics/topic2">End of Year Challenge</a> </td>
-	<td>In this session the students will take thier final coding challenge using HackerRank the challenge will test all skills taught this school year. The average student should take 35 minutes to complete this challenge. However, please allot 45 minutes to complete it. </td>
+	<td>In this session the students will take thier final coding challenge which will test all skills taught this school year. The average student should take 35 minutes to complete this challenge. However, please allot 45 minutes to complete it. </td>
 </tr>
 
 <tr>
