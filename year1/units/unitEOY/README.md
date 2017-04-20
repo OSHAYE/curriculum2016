@@ -8,13 +8,13 @@ In this unit the students are given their final challenge in HackerRank. It will
 	<th>Description</th>
 </tr>
 <tr>
-	<td align="left"> <a href="topics/topic2">2 End of Year Challenge</a> </td>
+	<td align="left"> <a href="topics/topic2">End of Year Challenge</a> </td>
 	<td>In this session the students will take thier final coding challenge using HackerRank the challenge will test all skills taught this school year. The average student should take 35 minutes to complete this challenge. However, please allot 45 minutes to complete it. </td>
 </tr>
 
 <tr>
-<td align="left"> <a href="topics/topic3">End of Year Survey</a> </td>
-	<td>In this project students will be asked to rebuild (or create) their school's website.Standards will be set to ensure students review skills taught since the beginning of the school year. </td>
+<td align="left"> <a href="topics/topic3">2 End of Year Survey</a> </td>
+	<td> This survey asks students to provide feedback on the ScriptEd Foundations course. Please allot 20-25 minutes for students to complete the survey. Every student will receive a unique link via e-mail </td>
 </tr>
 
 
