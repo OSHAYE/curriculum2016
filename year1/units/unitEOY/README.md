@@ -1,6 +1,6 @@
 # End of Year Unit
 
-In this unit the students are given their final challenge in HackerRank. It will test all of the skills learned this year. Following the EOY challenge students will take the end of year survey.
+In this unit, the students are given the final HackerRank challenge. It will test all of the skills learned this year. Following the EOY challenge, students will take the end of year survey.
 
 <table>
 <tr>
