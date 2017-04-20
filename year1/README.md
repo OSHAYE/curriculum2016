@@ -20,7 +20,7 @@ Year 1
 | 180 minutes | [**12**](units/unit12) | JavaScript: Animations and Collisions|In this unit students are introduced to the concept of game development as the begin to program simple **Animations & Collision Detections** using jQuery. |
 | 450 minutes | [**13**](units/unit13) | JavaScript: Looping| In this unit students will be introduced to **For Loops.** They will generate images rapidly on an HTML page and will then revisit Tiny Turtle to create fractal art programs. The students will then create a fully functional Hangman game.|
 | 360 minutes | [**14**](units/unit14) | Capstone Project |Students will be compiling all their knowledge from the year in a final project which resembles a "space invaders" style game. |
-| 90 minutes | [**End of Year Unit**]() | EOY HackerRank and Closing Survey |Students will complete the final Foundations HackerRank and the End of Year Feedback Survey.|
+| 90 minutes | [**End of Year Unit**](units/unitEOY) | EOY HackerRank and Closing Survey |Students will complete the final Foundations HackerRank and the End of Year Feedback Survey.|
 
 
 #### Misc Lessons, Games and Projects
