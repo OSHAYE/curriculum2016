@@ -16,7 +16,7 @@ This project should take 270 minutes to complete. Project may take less or more 
 * This project is HARD! Remind the students of this frequently.
 * Have a pizza party when this project is over....They, and you, deserve it  
 
-This project includes detailed guided docs that could be useful for anyone leading this project. These docs can be found in the [Solution Code](https://github.com/ScriptEdcurriculum/solutions2016/tree/master/year1/unit13/project2) files. For a more scaffolled  [Popcode Starter Code](https://popcode.org/?gist=0cd101af6c5e408c757f53c027ce75bb). Popcode [Solution Code](https://popcode.org/?gist=4c8e276cfa58f09585ecfcce56ba9f2f). 
+This project includes detailed guided docs that could be useful for anyone leading this project. These docs can be found in the [Solution Code](https://github.com/ScriptEdcurriculum/solutions2016/tree/master/year1/unit13/project2) files. If you want a more scaffolled  [Popcode Starter Code](https://popcode.org/?gist=0cd101af6c5e408c757f53c027ce75bb) and  [Popcode Solution Code](https://popcode.org/?gist=4c8e276cfa58f09585ecfcce56ba9f2f). 
  
 
 
