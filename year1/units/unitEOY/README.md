@@ -13,7 +13,7 @@ In this unit, the students are given the final HackerRank challenge. It will tes
 	<td>In this session, the students wil prepare for their upcoming end-of-year challenge by competing in jeopardy. Jeopardy will test their knowledge of HTML, CSS, JavaScript, ScriptEd and General Tech Knowledge.</td>
 </tr>
 <tr>
-	<td align="left"> <a href="">End of Year Challenge</a> </td>
+	<td align="left"> <a href="https://docs.google.com/presentation/d/10jHFwAB_PTLqnJpLXT0CKJLPsBtS7EnfvaKzH6wrhDw/edit#slide=id.g14ecb9111c_1_0">End of Year Challenge</a> </td>
 	<td>In this session the students will take thier final coding challenge which will test all skills taught this school year. The average student should take 35 minutes to complete this challenge. However, please allot 45 minutes to complete it. </td>
 </tr>
 
