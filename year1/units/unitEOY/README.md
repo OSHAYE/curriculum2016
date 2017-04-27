@@ -9,7 +9,7 @@ In this unit, the students are given the final HackerRank challenge. It will tes
 </tr>
 
 <tr>
-	<td align="left"> <a href="https://docs.google.com/presentation/d/1efyI2LphHNNUsYtsIwyc9BFDMz5WSNwhKk_dOysLRQk/edit#slide=id.g1160ab3229_0_72">Optional Jeopardy: End of Year Review</a> </td>
+	<td align="left"> <a href="https://docs.google.com/presentation/d/1efyI2LphHNNUsYtsIwyc9BFDMz5WSNwhKk_dOysLRQk/edit#slide=id.g14ecb9111c_1_0">Optional Jeopardy: End of Year Review</a> </td>
 	<td>In this session, the students wil prepare for their upcoming end-of-year challenge by competing in jeopardy. Jeopardy will test their knowledge of HTML, CSS, JavaScript, ScriptEd and General Tech Knowledge.</td>
 </tr>
 <tr>
