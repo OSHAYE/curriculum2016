@@ -16,7 +16,7 @@ This project should take 270 minutes to complete. Project may take less or more 
 * This project is HARD! Remind the students of this frequently.
 * Have a pizza party when this project is over....They, and you, deserve it  
 
-This project includes detailed guided docs that could be useful for anyone leading this project. These docs can be found in the [Solution Code](https://github.com/ScriptEdcurriculum/solutions2016/tree/master/year1/unit13/project2) files. If you want a more scaffolled  [Popcode Starter Code](https://popcode.org/?gist=0cd101af6c5e408c757f53c027ce75bb) and  [Popcode Solution Code](https://popcode.org/?gist=4c8e276cfa58f09585ecfcce56ba9f2f). 
+This project includes detailed guided docs that could be useful for anyone leading this project. These docs can be found in the [Solution Code](https://github.com/ScriptEdcurriculum/solutions2016/tree/master/year1/unit13/project2) files. If you want a more or less scaffolling your can delete the function templates or code comments. 
  
 
 
@@ -25,7 +25,7 @@ This project includes detailed guided docs that could be useful for anyone leadi
 
 | Starter code | Solution Code |
 |-------|-------|
-|[Starter Code](https://github.com/ScriptEdcurriculum/unit13HangmanStarterCode) <br> [Popcode Starter Code](https://popcode.org/?gist=0cd101af6c5e408c757f53c027ce75bb)| [Solution Code](https://github.com/ScriptEdcurriculum/solutions2016/tree/master/year1/unit13/project2) (private repo)  <br> [Popcode Solution Code](https://popcode.org/?gist=4c8e276cfa58f09585ecfcce56ba9f2f)|
+|[Starter Code](https://github.com/ScriptEdcurriculum/unit13HangmanStarterCode) <br> [Popcode Starter Code](https://popcode.org/?gist=4102b70fb3c6ce1412aa616f40dfbd0d)| [Solution Code](https://github.com/ScriptEdcurriculum/solutions2016/tree/master/year1/unit13/project2) (private repo)  <br> [Popcode Solution Code](https://popcode.org/?gist=4c8e276cfa58f09585ecfcce56ba9f2f)|
 
 ##[Google Slides](https://docs.google.com/presentation/d/1yaBx7PiRJ0egSAkfovDht8uVWjyyU8aDo8ZtzWUfjSs/edit?usp=sharing)
 
