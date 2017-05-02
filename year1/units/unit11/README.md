@@ -36,7 +36,7 @@ In this unit students are introduced to the JavaScript **Math library** in the f
 ## Extra Resources, Challenges and Projects
 
 * Project: [Random Color Square](projects/projectColorSquare). Extension to earlier project. Great resource! 
-* Project: Magic 8 ball app
+* Project: <a href="https://docs.google.com/presentation/d/1JveoGg_qnK-4ikf9flg8As1irBhIqTtF_0vKj-IP4ns/edit#slide=id.gc63b2358e_0_0"> Magic 8 ball app </a>
 
 [Common Core & Computer Science Standards Alignment](csStandards.md)
 
