@@ -18,13 +18,9 @@ In this unit, the students are given the final HackerRank challenge. It will tes
 </tr>
 
 <tr>
-<td align="left"> <a href="">2 End of Year Survey</a> </td>
+<td align="left"> <p>End of Year Survey<p> </td>
 	<td> This survey asks students to provide feedback on the ScriptEd Foundations course. Please allot 20-25 minutes for students to complete the survey. Every student will receive a unique link via e-mail </td>
 </tr>
 
 
 </table>
-
-
-## Extra Resources, Challenges and Projects
-[Common Core & Computer Science Standards Alignment](csStandards.md)
