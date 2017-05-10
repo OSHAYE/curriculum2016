@@ -19,7 +19,7 @@ In this unit, the students are given the final HackerRank challenge. It will tes
 
 <tr>
 <td align="left"> <p>End of Year Survey<p> </td>
-	<td> This survey asks students to provide feedback on the ScriptEd Foundations course. Please allot 20-25 minutes for students to complete the survey. Every student will receive a unique link via e-mail </td>
+	<td> This survey asks students to provide feedback on their experience in ScriptEd this past year. Please allot 20-25 minutes for students to complete the survey. Every student will receive a unique link via e-mail from their Program Manager. </td>
 </tr>
 
 
