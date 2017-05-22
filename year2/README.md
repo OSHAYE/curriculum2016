@@ -18,6 +18,7 @@ Advanced Course
 | 2 sessions | [Optional Unit: Foursquare API](units/opt-FoursquareAPI) | API, JSON, Dev Tools| Students will create a webapp using the Foursquare API. This project uses the same skills as the two preceding it. Time can often be more effectively utilized moving to straight to the next project. |
 | 1 session| [Technical Interviewing](units/8-techInterviewing) | Professional Skills| What to expect in a technical interview and Staying involved in the Tech community. |
 | 8-10 sessions | [Entreprenuership Project](units/9-entrepreneur) | Project Management| Students will be creating their own product in small teams. |
+| 1 session| [EOYChallenge](http://hr.gs/advancedeoy17) | Advanced End of Year Challenge| Please direct students to the following link to complete their end of year challenge: http://hr.gs/advancedeoy17|
 
 #### Misc Lessons, Games and Projects
 
