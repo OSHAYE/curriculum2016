@@ -1,4 +1,4 @@
-
+[Link to ScriptEd Curriculum 2017-2018](https://github.com/ScriptEdcurriculum/curriculum17-18)
 # ScriptEd Curriculum 2016-2017
 ![Imgur](http://i.imgur.com/KxRicIt.png)
 
